@@ -13,12 +13,15 @@ namespace SistemaInventario.AccesoDatos.Repositorio
         private readonly ApplicationDbContext _db;
         //Propiedad IBodega y se referencia con Bodega
         public IBodegaRepositorio Bodega { get; private set; }
+        public ICategoriaRepositorio Categoria { get; private set; }
+
 
         public UnidadTrabajo(ApplicationDbContext db)
         {
             _db = db;
             //Inicializar la propiedad de la interfaz
             Bodega = new BodegaRepositorio(_db);
+            Categoria = new CategoriaRepositorio(_db);
         }
         
 
