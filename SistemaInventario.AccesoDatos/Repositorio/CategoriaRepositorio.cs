@@ -13,7 +13,7 @@ namespace SistemaInventario.AccesoDatos.Repositorio
     {
         private readonly ApplicationDbContext _db;
 
-        //contructor
+        //constructor
         public CategoriaRepositorio(ApplicationDbContext db) : base(db) 
         {
             _db = db;

@@ -2,7 +2,7 @@
 
   <PropertyGroup>
     <TargetFramework>net7.0</TargetFramework>
-    <Nullable>enable</Nullable>
+    <!--<Nullable>enable</Nullable>-->
     <ImplicitUsings>enable</ImplicitUsings>
     <UserSecretsId>aspnet-SistemaInventario-0dcafaec-92a1-4021-8fd8-cf915618072f</UserSecretsId>
   </PropertyGroup>
@@ -10,6 +10,8 @@
   <ItemGroup>
     <Content Remove="wwwroot\js\bodega.js" />
     <Content Remove="wwwroot\js\categoria.js" />
+    <Content Remove="wwwroot\js\marca.js" />
+    <Content Remove="wwwroot\js\producto.js" />
   </ItemGroup>
 
   <ItemGroup>
@@ -17,6 +19,8 @@
   </ItemGroup>
 
   <ItemGroup>
+    <None Include="wwwroot\js\producto.js" />
+    <None Include="wwwroot\js\marca.js" />
     <None Include="wwwroot\js\categoria.js" />
     <None Include="wwwroot\js\bodega.js" />
   </ItemGroup>
@@ -38,6 +42,10 @@
     <ProjectReference Include="..\SistemaInventario.AccesoDatos\SistemaInventario.AccesoDatos.csproj" />
     <ProjectReference Include="..\SistemaInventario.Modelos\SistemaInventario.Modelos.csproj" />
     <ProjectReference Include="..\SistemaInventario.Utilidades\SistemaInventario.Utilidades.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="wwwroot\imagenes\producto\" />
   </ItemGroup>
 
 </Project>
