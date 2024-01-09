@@ -13,12 +13,28 @@
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
+      "Id": "C:\\Users\\Juan De Dios\\source\\repos\\SistemaInventario\\SistemaInventario\\wwwroot\\imagenes\\icono.ico",
+      "PackagePath": "staticwebassets\\imagenes\\icono.ico"
+    },
+    {
+      "Id": "C:\\Users\\Juan De Dios\\source\\repos\\SistemaInventario\\SistemaInventario\\wwwroot\\imagenes\\icono.png",
+      "PackagePath": "staticwebassets\\imagenes\\icono.png"
+    },
+    {
+      "Id": "C:\\Users\\Juan De Dios\\source\\repos\\SistemaInventario\\SistemaInventario\\wwwroot\\imagenes\\producto\\28db02cd-2e8c-446d-8fe4-dc1620857be5.JPG",
+      "PackagePath": "staticwebassets\\imagenes\\producto\\28db02cd-2e8c-446d-8fe4-dc1620857be5.JPG"
+    },
+    {
+      "Id": "C:\\Users\\Juan De Dios\\source\\repos\\SistemaInventario\\SistemaInventario\\wwwroot\\imagenes\\producto\\69f2a090-1e1d-4274-ac25-3dce1c6274d9.JPG",
+      "PackagePath": "staticwebassets\\imagenes\\producto\\69f2a090-1e1d-4274-ac25-3dce1c6274d9.JPG"
+    },
+    {
       "Id": "C:\\Users\\Juan De Dios\\source\\repos\\SistemaInventario\\SistemaInventario\\wwwroot\\imagenes\\producto\\734f3e45-363c-4b28-9486-6ef9df6ad117.JPG",
       "PackagePath": "staticwebassets\\imagenes\\producto\\734f3e45-363c-4b28-9486-6ef9df6ad117.JPG"
     },
     {
-      "Id": "C:\\Users\\Juan De Dios\\source\\repos\\SistemaInventario\\SistemaInventario\\wwwroot\\imagenes\\producto\\9f502f08-ae69-4f71-ab4f-4dc43b0850ba.JPG",
-      "PackagePath": "staticwebassets\\imagenes\\producto\\9f502f08-ae69-4f71-ab4f-4dc43b0850ba.JPG"
+      "Id": "C:\\Users\\Juan De Dios\\source\\repos\\SistemaInventario\\SistemaInventario\\wwwroot\\imagenes\\producto\\8a501c84-e5e9-4ce1-9e7d-e4f95412c456.JPG",
+      "PackagePath": "staticwebassets\\imagenes\\producto\\8a501c84-e5e9-4ce1-9e7d-e4f95412c456.JPG"
     },
     {
       "Id": "C:\\Users\\Juan De Dios\\source\\repos\\SistemaInventario\\SistemaInventario\\wwwroot\\js\\site.js",
